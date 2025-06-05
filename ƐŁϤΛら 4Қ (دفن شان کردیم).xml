@@ -1,0 +1,676 @@
+<?xml version='1.0' encoding='UTF-8' ?><!--
+Created by Alight Motion (http://alightmotion.com)
+Exported: 2025-05-09 08:10 PM
+5.0.201.1001028 (1000045)
+a106d55 (Sep 13, 2023 11:54:15 PM)
+-->
+<scene title="ƐŁϤΛら 4Қ (دفن شان کردیم)" width="1080" height="1920" exportWidth="1920" exportHeight="1080" precompose="dynamicResolution" bgcolor="#ff000000" totalTime="15015" fps="60" modifiedTime="1746805209226" amver="1000045" ffver="106" am="com.alightcreative.motioo/5.0.201.1001028" amplatform="android" retime="freeze" retimeAdaptFPS="false">
+  <media uri="content://media/external/video/media/1000261017" filename="VID_20250406_215813_045.mp4" title="VID_20250406_215813_045.mp4" type="video/mp4" duration="25377000" size="3229672" fps="0.30" orientation="0" infoUpdated="1746803241828" width="720" height="1280" />
+  <media uri="content://media/external/images/media/1000281739" filename="Picsart_25-05-04_23-26-25-911.jpg" title="Picsart_25-05-04_23-26-25-911.jpg" type="image/jpeg" size="1623117" orientation="0" infoUpdated="1746803241828" width="1263" height="2245" />
+  <bookmark t="1591" />
+  <bookmark t="3508" />
+  <bookmark t="25008" />
+  <bookmark t="8" />
+  <bookmark t="6808" />
+  <bookmark t="8458" />
+  <bookmark t="10158" />
+  <bookmark t="11808" />
+  <bookmark t="13491" />
+  <bookmark t="5125" />
+  <bookmark t="15008" />
+  <audio id="10221117" label="ᴍᴜsɪᴄ" hidden="true" startTime="0" endTime="15015" src="content://media/external/video/media/1000261017" outTime="15015" mediaFillMode="fill" />
+  <shape id="10221122" hidden="true" startTime="0" endTime="15015" fillType="color" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location>
+        <kf t="0.566300" v="539.996399,960.006348,0.000000" />
+        <kf t="0.699434" v="540.000000,960.000000,0.000000" e="cubicBezier 0.75 0.0 0.58000004 1.0" />
+        <kf t="0.632833" v="759.977173,635.329224,0.000000" e="cubicBezier 0.42 0.0 0.25273886 1.0" />
+      </location>
+      <scale>
+        <kf t="0.532933" v="1.000000,1.000000" />
+        <kf t="0.732800" v="1.000000,1.000000" e="cubicBezier 0.75 0.0 0.58000004 1.0" />
+        <kf t="0.632833" v="1.525000,1.525000" e="cubicBezier 0.42 0.0 0.24573246 1.0" />
+      </scale>
+      <rotation>
+        <kf t="0.732800" v="0.000000" e="cubicBezier 0.75 0.0 0.58000004 1.0" />
+        <kf t="0.532933" v="0.000000" e="cubicBezier 0.42 0.0 0.25 1.0" />
+        <kf t="0.632833" v="15.000000" e="cubicBezier 0.42 0.0 0.25 1.0" />
+      </rotation>
+    </transform>
+    <fillColor value="#ff000000" />
+    <effect id="com.alightcreative.effects.oscillate3" locallyApplied="true">
+      <property name="direction" type="int" value="0" />
+      <property name="angle" type="float">
+        <kf t="0.000000" v="0.000000" />
+        <kf t="1.000000" v="175.000000" />
+      </property>
+      <property name="freq" type="float" value="0.300000" />
+      <property name="mag" type="float" value="35.000000" />
+      <property name="type" type="int" value="0" />
+      <property name="phase" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.swing2" locallyApplied="true">
+      <property name="freq" type="float" value="0.350000" />
+      <property name="a1" type="float" value="1.500000" />
+      <property name="a2" type="float" value="-1.500000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="type" type="int" value="0" />
+    </effect>
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <embedScene id="10221125" label="ᴇɴᴛᴇʀ" startTime="0" endTime="15015" fillType="intrinsic" outTime="15015" mediaFillMode="fill" parent="10221122">
+    <transform>
+      <location value="0.003601,-0.006348,0.000000" />
+    </transform>
+    <fillColor value="#ff000000" />
+    <effect id="com.alightcreative.effects.tile" locallyApplied="true">
+      <property name="scale" type="float" value="1.000000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="mirror" type="bool" value="true" />
+      <property name="vertoffs" type="bool" value="false" />
+      <property name="angle" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.scaleassist" locallyApplied="true">
+      <property name="axis" type="int" value="2" />
+      <property name="scale" type="float">
+        <kf t="0.453413" v="1.030000" e="cubicBezier 0.42 0.0 1.0 0.0" />
+        <kf t="0.563303" v="1.030000" e="cubicBezier 0.42 0.0 1.0 0.0" />
+        <kf t="0.676523" v="1.030000" e="cubicBezier 0.42 0.0 1.0 0.0" />
+        <kf t="0.786414" v="1.030000" e="cubicBezier 0.42 0.0 1.0 0.0" />
+        <kf t="0.898502" v="1.030000" e="cubicBezier 0.42 0.0 1.0 0.0" />
+        <kf t="0.341325" v="1.030000" e="cubicBezier 0.42 0.0 1.0 0.0" />
+        <kf t="0.333533" v="1.030000" e="cubicBezier 0.42 0.0 1.0 0.0" />
+        <kf t="0.400133" v="1.000000" e="cubicBezier 0.0 1.0 0.58000004 1.0" />
+        <kf t="0.508891" v="1.000000" e="cubicBezier 0.0 1.0 0.58000004 1.0" />
+        <kf t="0.625441" v="1.000000" e="cubicBezier 0.0 1.0 0.58000004 1.0" />
+        <kf t="0.733134" v="1.000000" e="cubicBezier 0.0 1.0 0.58000004 1.0" />
+        <kf t="0.840826" v="1.000000" e="cubicBezier 0.0 1.0 0.58000004 1.0" />
+        <kf t="0.931802" v="1.000000" e="cubicBezier 0.0 1.0 0.58000004 1.0" />
+      </property>
+      <property name="damp" type="float" value="1.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.glowscan" locallyApplied="true">
+      <property name="threshold" type="float" value="0.750000" />
+      <property name="radius" type="float" value="1.000000" />
+      <property name="power" type="float" value="4.000000" />
+      <property name="strength" type="float" value="0.000000" />
+      <property name="fillColor" type="color" value="#ff0088ff" />
+      <property name="blend" type="float" value="0.000000" />
+      <property name="fill" type="float" value="1.000000" />
+      <property name="alpha" type="float">
+        <kf t="0.931802" v="0.000000" e="cubicBezier 0.0 1.0 0.58000004 1.0" />
+        <kf t="0.840826" v="0.000000" e="cubicBezier 0.0 1.0 0.58000004 1.0" />
+        <kf t="0.733134" v="0.000000" e="cubicBezier 0.0 1.0 0.58000004 1.0" />
+        <kf t="0.625441" v="0.000000" e="cubicBezier 0.0 1.0 0.58000004 1.0" />
+        <kf t="0.508891" v="0.000000" e="cubicBezier 0.0 1.0 0.58000004 1.0" />
+        <kf t="0.400133" v="0.000000" e="cubicBezier 0.0 1.0 0.58000004 1.0" />
+        <kf t="0.333533" v="0.000000" e="cubicBezier 0.42 0.0 1.0 0.0" />
+        <kf t="0.898502" v="0.250000" e="cubicBezier 0.42 0.0 1.0 0.0" />
+        <kf t="0.786414" v="0.250000" e="cubicBezier 0.42 0.0 1.0 0.0" />
+        <kf t="0.676523" v="0.250000" e="cubicBezier 0.42 0.0 1.0 0.0" />
+        <kf t="0.563303" v="0.250000" e="cubicBezier 0.42 0.0 1.0 0.0" />
+        <kf t="0.453413" v="0.250000" e="cubicBezier 0.42 0.0 1.0 0.0" />
+        <kf t="0.341325" v="0.250000" e="cubicBezier 0.42 0.0 1.0 0.0" />
+      </property>
+    </effect>
+    <effect id="com.alightcreative.effects.scaleassist" locallyApplied="true">
+      <property name="axis" type="int" value="1" />
+      <property name="scale" type="float">
+        <kf t="0.453413" v="1.030000" e="cubicBezier 0.42 0.0 1.0 0.0" />
+        <kf t="0.563303" v="1.030000" e="cubicBezier 0.42 0.0 1.0 0.0" />
+        <kf t="0.676523" v="1.030000" e="cubicBezier 0.42 0.0 1.0 0.0" />
+        <kf t="0.786414" v="1.030000" e="cubicBezier 0.42 0.0 1.0 0.0" />
+        <kf t="0.898502" v="1.030000" e="cubicBezier 0.42 0.0 1.0 0.0" />
+        <kf t="0.341325" v="1.030000" e="cubicBezier 0.42 0.0 1.0 0.0" />
+        <kf t="0.333533" v="1.030000" e="cubicBezier 0.42 0.0 1.0 0.0" />
+        <kf t="0.400133" v="1.000000" e="cubicBezier 0.0 1.0 0.58000004 1.0" />
+        <kf t="0.508891" v="1.000000" e="cubicBezier 0.0 1.0 0.58000004 1.0" />
+        <kf t="0.625441" v="1.000000" e="cubicBezier 0.0 1.0 0.58000004 1.0" />
+        <kf t="0.733134" v="1.000000" e="cubicBezier 0.0 1.0 0.58000004 1.0" />
+        <kf t="0.840826" v="1.000000" e="cubicBezier 0.0 1.0 0.58000004 1.0" />
+        <kf t="0.931802" v="1.000000" e="cubicBezier 0.0 1.0 0.58000004 1.0" />
+      </property>
+      <property name="damp" type="float" value="1.000000" />
+    </effect>
+    <scene title="" width="1080" height="1920" exportWidth="1080" exportHeight="1920" precompose="dynamicResolution" bgcolor="#00000000" totalTime="15015" fps="60" modifiedTime="0" amver="1000045" ffver="106" am="com.alightcreative.motioo/5.0.201.1001028" amplatform="android" retime="off" retimeAdaptFPS="false">
+      <shape id="10221109" label="ᴘʜᴏᴛᴏ" startTime="0" endTime="1599" fillType="media" fillImage="content://media/external/images/media/1000281739" speed="1.260163" mediaFillMode="fill" s=".rect">
+        <transform>
+          <location>
+            <kf t="0.996526" v="540.000000,960.000000,0.000000" e="elastic 0.37872612 1.0 0.0 0.60229826" />
+            <kf t="0.003970" v="431.500000,961.500000,0.000000" />
+          </location>
+          <scale>
+            <kf t="0.500248" v="1.000000,1.000000" e="cubicBezier 0.0 1.0 0.58 1.0" />
+            <kf t="0.003970" v="1.620115,1.620115" />
+            <kf t="0.996526" v="0.231371,0.231371" e="cubicBezier 0.42 0.0 1.0 0.0" />
+          </scale>
+          <rotation>
+            <kf t="0.003970" v="-4.000000" />
+            <kf t="0.996526" v="3.000000" />
+          </rotation>
+        </transform>
+        <effect id="com.alightcreative.effects.tile" locallyApplied="true">
+          <property name="scale" type="float" value="1.000000" />
+          <property name="phase" type="float" value="0.000000" />
+          <property name="mirror" type="bool" value="true" />
+          <property name="vertoffs" type="bool" value="false" />
+          <property name="angle" type="float" value="0.000000" />
+        </effect>
+        <effect id="com.alightcreative.effects.motionblur4" locallyApplied="true">
+          <property name="tune" type="float" value="1.000000" />
+          <property name="usePos" type="bool" value="true" />
+          <property name="useScale" type="bool" value="true" />
+          <property name="useAngle" type="bool" value="true" />
+        </effect>
+        <property name="size" type="vec2" value="540.000000,959.500000" />
+      </shape>
+      <embedScene id="10221112" label="ᴛᴇxᴛ" startTime="0" endTime="1599" fillType="intrinsic" outTime="2015" speed="1.260163" mediaFillMode="fill">
+        <transform>
+          <location value="543.513489,960.000000,0.000000" />
+          <pivot value="0.000000,494.500000" />
+        </transform>
+        <fillColor value="#ff000000" />
+        <scene title="" width="2780" height="1920" exportWidth="2780" exportHeight="1920" precompose="dynamicResolution" bgcolor="#00000000" totalTime="2015" fps="60" modifiedTime="0" amver="1000045" ffver="106" am="com.alightcreative.motioo/5.0.201.1001028" amplatform="android" retime="off" retimeAdaptFPS="false">
+          <text id="10221111" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" size="32.000000" font="imported?name=EmojiiOS15.4.ttf" wrapWidth="764" align="center">
+            <transform>
+              <location>
+                <kf t="0.996526" v="1386.528564,1454.500000,0.000000" e="elastic 0.37159234 1.0 0.18657611 0.51392007" />
+                <kf t="0.003970" v="385.514282,1454.500000,0.000000" />
+              </location>
+              <rotation>
+                <kf t="0.003970" v="-5.000000" />
+                <kf t="0.996526" v="3.000000" />
+              </rotation>
+            </transform>
+            <fillColor value="#00ffffff" />
+            <effect id="com.alightcreative.effects.flip3" locallyApplied="true">
+              <property name="angle" type="float">
+                <kf t="0.000000" v="0.000000" />
+                <kf t="1.000000" v="-359.991821" e="cubicBezier 0.0 1.0 1.0 1.0" />
+              </property>
+              <property name="axis" type="float" value="0.000000" />
+              <property name="crop" type="float" value="1.000000" />
+              <property name="zdist" type="float" value="0.000000" />
+              <property name="solid" type="bool" value="false" />
+              <property name="solidColor" type="color" value="#ffdd4455" />
+              <property name="thickness" type="float" value="1.000000" />
+              <property name="enableLight" type="bool" value="false" />
+              <property name="lightIntensity" type="float" value="1.000000" />
+              <property name="lightColor" type="color" value="#ffffffff" />
+              <property name="shine" type="float" value="0.800000" />
+              <property name="spec" type="float" value="30.000000" />
+              <property name="ambient" type="float" value="0.100000" />
+              <property name="lightDir" type="vec2" value="75.000000,-75.000000" />
+              <property name="lightDepth" type="float" value="-100.000000" />
+            </effect>
+            <shadow direction="outside">
+              <size value="15.000000" />
+              <offset value="0.000000,0.000000" />
+            </shadow>
+            <content>&#129780;&#127995;❤️</content>
+          </text>
+          <text id="10221110" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" size="32.000000" font="imported?name=فونت دیما شکسته (@fonts_land).ttf" wrapWidth="764" align="center">
+            <transform>
+              <location>
+                <kf t="0.996526" v="1386.528564,1454.500000,0.000000" e="elastic 0.37159234 1.0 0.18657611 0.51392007" />
+                <kf t="0.003970" v="2386.028564,1454.500000,0.000000" />
+              </location>
+              <rotation>
+                <kf t="0.003970" v="-5.000000" />
+                <kf t="0.996526" v="3.000000" />
+              </rotation>
+            </transform>
+            <effect id="com.alightcreative.effects.flip3" locallyApplied="true">
+              <property name="angle" type="float">
+                <kf t="0.000000" v="0.000000" />
+                <kf t="1.000000" v="360.000000" e="cubicBezier 0.0 1.0 1.0 1.0" />
+              </property>
+              <property name="axis" type="float" value="0.000000" />
+              <property name="crop" type="float" value="1.000000" />
+              <property name="zdist" type="float" value="0.000000" />
+              <property name="solid" type="bool" value="false" />
+              <property name="solidColor" type="color" value="#ffdd4455" />
+              <property name="thickness" type="float" value="1.000000" />
+              <property name="enableLight" type="bool" value="false" />
+              <property name="lightIntensity" type="float" value="1.000000" />
+              <property name="lightColor" type="color" value="#ffffffff" />
+              <property name="shine" type="float" value="0.800000" />
+              <property name="spec" type="float" value="30.000000" />
+              <property name="ambient" type="float" value="0.100000" />
+              <property name="lightDir" type="vec2" value="75.000000,-75.000000" />
+              <property name="lightDepth" type="float" value="-100.000000" />
+            </effect>
+            <shadow direction="outside">
+              <size value="15.000000" />
+              <offset value="0.000000,0.000000" />
+            </shadow>
+            <content>از آنجائیکه خودشان را</content>
+          </text>
+        </scene>
+      </embedScene>
+      <shape id="10221113" label="ᴘʜᴏᴛᴏ" startTime="1583" endTime="3515" fillType="media" fillImage="content://media/external/images/media/1000281739" speed="1.042961" mediaFillMode="fill" s=".rect">
+        <transform>
+          <location>
+            <kf t="0.996526" v="540.000000,960.000000,0.000000" e="elastic 0.37872612 1.0 0.0 0.60229826" />
+            <kf t="0.003970" v="431.500000,961.500000,0.000000" />
+          </location>
+          <scale>
+            <kf t="0.500248" v="1.000000,1.000000" e="cubicBezier 0.0 1.0 0.58 1.0" />
+            <kf t="0.003970" v="1.620115,1.620115" />
+            <kf t="0.996526" v="0.231371,0.231371" e="cubicBezier 0.42 0.0 1.0 0.0" />
+          </scale>
+          <rotation>
+            <kf t="0.003970" v="4.000000" />
+            <kf t="0.996526" v="-3.000000" />
+          </rotation>
+        </transform>
+        <effect id="com.alightcreative.effects.tile" locallyApplied="true">
+          <property name="scale" type="float" value="1.000000" />
+          <property name="phase" type="float" value="0.000000" />
+          <property name="mirror" type="bool" value="true" />
+          <property name="vertoffs" type="bool" value="false" />
+          <property name="angle" type="float" value="0.000000" />
+        </effect>
+        <effect id="com.alightcreative.effects.motionblur4" locallyApplied="true">
+          <property name="tune" type="float" value="1.000000" />
+          <property name="usePos" type="bool" value="true" />
+          <property name="useScale" type="bool" value="true" />
+          <property name="useAngle" type="bool" value="true" />
+        </effect>
+        <property name="size" type="vec2" value="540.000000,959.500000" />
+      </shape>
+      <embedScene id="10221114" label="ᴛᴇxᴛ" startTime="1583" endTime="3515" fillType="intrinsic" outTime="2015" speed="1.042961" mediaFillMode="fill">
+        <transform>
+          <location value="543.513489,960.000000,0.000000" />
+          <pivot value="0.000000,494.500000" />
+        </transform>
+        <fillColor value="#ff000000" />
+        <scene title="" width="2780" height="1920" exportWidth="2780" exportHeight="1920" precompose="dynamicResolution" bgcolor="#00000000" totalTime="2015" fps="60" modifiedTime="0" amver="1000045" ffver="106" am="com.alightcreative.motioo/5.0.201.1001028" amplatform="android" retime="off" retimeAdaptFPS="false">
+          <text id="10221110" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" size="32.000000" font="imported?name=EmojiiOS15.4.ttf" wrapWidth="764" align="center">
+            <transform>
+              <location>
+                <kf t="0.996526" v="1386.528564,1454.500000,0.000000" e="elastic 0.37159234 1.0 0.18657611 0.51392007" />
+                <kf t="0.003970" v="2386.028564,1454.500000,0.000000" />
+              </location>
+              <rotation>
+                <kf t="0.003970" v="-5.000000" />
+                <kf t="0.996526" v="3.000000" />
+              </rotation>
+            </transform>
+            <fillColor value="#00ffffff" />
+            <effect id="com.alightcreative.effects.flip3" locallyApplied="true">
+              <property name="angle" type="float">
+                <kf t="0.000000" v="0.000000" />
+                <kf t="1.000000" v="360.000000" e="cubicBezier 0.0 1.0 1.0 1.0" />
+              </property>
+              <property name="axis" type="float" value="0.000000" />
+              <property name="crop" type="float" value="1.000000" />
+              <property name="zdist" type="float" value="0.000000" />
+              <property name="solid" type="bool" value="false" />
+              <property name="solidColor" type="color" value="#ffdd4455" />
+              <property name="thickness" type="float" value="1.000000" />
+              <property name="enableLight" type="bool" value="false" />
+              <property name="lightIntensity" type="float" value="1.000000" />
+              <property name="lightColor" type="color" value="#ffffffff" />
+              <property name="shine" type="float" value="0.800000" />
+              <property name="spec" type="float" value="30.000000" />
+              <property name="ambient" type="float" value="0.100000" />
+              <property name="lightDir" type="vec2" value="75.000000,-75.000000" />
+              <property name="lightDepth" type="float" value="-100.000000" />
+            </effect>
+            <shadow direction="outside">
+              <size value="15.000000" />
+              <offset value="0.000000,0.000000" />
+            </shadow>
+            <content>&#129779;&#127995;&#128511;</content>
+          </text>
+          <text id="10221111" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" size="32.000000" font="imported?name=فونت دیما شکسته (@fonts_land).ttf" wrapWidth="764" align="center">
+            <transform>
+              <location>
+                <kf t="0.996526" v="1386.528564,1454.500000,0.000000" e="elastic 0.37159234 1.0 0.18657611 0.51392007" />
+                <kf t="0.003970" v="385.514282,1454.500000,0.000000" />
+              </location>
+              <rotation>
+                <kf t="0.003970" v="-5.000000" />
+                <kf t="0.996526" v="3.000000" />
+              </rotation>
+            </transform>
+            <effect id="com.alightcreative.effects.flip3" locallyApplied="true">
+              <property name="angle" type="float">
+                <kf t="0.000000" v="0.000000" />
+                <kf t="1.000000" v="-359.991821" e="cubicBezier 0.0 1.0 1.0 1.0" />
+              </property>
+              <property name="axis" type="float" value="0.000000" />
+              <property name="crop" type="float" value="1.000000" />
+              <property name="zdist" type="float" value="0.000000" />
+              <property name="solid" type="bool" value="false" />
+              <property name="solidColor" type="color" value="#ffdd4455" />
+              <property name="thickness" type="float" value="1.000000" />
+              <property name="enableLight" type="bool" value="false" />
+              <property name="lightIntensity" type="float" value="1.000000" />
+              <property name="lightColor" type="color" value="#ffffffff" />
+              <property name="shine" type="float" value="0.800000" />
+              <property name="spec" type="float" value="30.000000" />
+              <property name="ambient" type="float" value="0.100000" />
+              <property name="lightDir" type="vec2" value="75.000000,-75.000000" />
+              <property name="lightDepth" type="float" value="-100.000000" />
+            </effect>
+            <shadow direction="outside">
+              <size value="15.000000" />
+              <offset value="0.000000,0.000000" />
+            </shadow>
+            <content>گنج فرض کردند</content>
+          </text>
+        </scene>
+      </embedScene>
+      <shape id="10221115" label="ᴘʜᴏᴛᴏ" startTime="3500" endTime="5132" fillType="media" fillImage="content://media/external/images/media/1000281739" speed="1.234681" mediaFillMode="fill" s=".rect">
+        <transform>
+          <location>
+            <kf t="0.996526" v="540.000000,960.000000,0.000000" e="elastic 0.37872612 1.0 0.0 0.60229826" />
+            <kf t="0.003970" v="431.500000,961.500000,0.000000" />
+          </location>
+          <scale>
+            <kf t="0.500248" v="1.000000,1.000000" e="cubicBezier 0.0 1.0 0.58 1.0" />
+            <kf t="0.003970" v="1.620115,1.620115" />
+            <kf t="0.996526" v="0.231371,0.231371" e="cubicBezier 0.42 0.0 1.0 0.0" />
+          </scale>
+          <rotation>
+            <kf t="0.003970" v="-4.000000" />
+            <kf t="0.996526" v="3.000000" />
+          </rotation>
+        </transform>
+        <effect id="com.alightcreative.effects.tile" locallyApplied="true">
+          <property name="scale" type="float" value="1.000000" />
+          <property name="phase" type="float" value="0.000000" />
+          <property name="mirror" type="bool" value="true" />
+          <property name="vertoffs" type="bool" value="false" />
+          <property name="angle" type="float" value="0.000000" />
+        </effect>
+        <effect id="com.alightcreative.effects.motionblur4" locallyApplied="true">
+          <property name="tune" type="float" value="1.000000" />
+          <property name="usePos" type="bool" value="true" />
+          <property name="useScale" type="bool" value="true" />
+          <property name="useAngle" type="bool" value="true" />
+        </effect>
+        <property name="size" type="vec2" value="540.000000,959.500000" />
+      </shape>
+      <embedScene id="10221116" label="ᴛᴇxᴛ" startTime="3500" endTime="5132" fillType="intrinsic" outTime="2015" speed="1.234681" mediaFillMode="fill">
+        <transform>
+          <location value="543.513489,960.000000,0.000000" />
+          <pivot value="0.000000,494.500000" />
+        </transform>
+        <fillColor value="#ff000000" />
+        <scene title="" width="2780" height="1920" exportWidth="2780" exportHeight="1920" precompose="dynamicResolution" bgcolor="#00000000" totalTime="2015" fps="60" modifiedTime="0" amver="1000045" ffver="106" am="com.alightcreative.motioo/5.0.201.1001028" amplatform="android" retime="off" retimeAdaptFPS="false">
+          <text id="10221111" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" size="32.000000" font="imported?name=EmojiiOS15.4.ttf" wrapWidth="764" align="center">
+            <transform>
+              <location>
+                <kf t="0.996526" v="1386.528564,1454.500000,0.000000" e="elastic 0.37159234 1.0 0.18657611 0.51392007" />
+                <kf t="0.003970" v="385.514282,1454.500000,0.000000" />
+              </location>
+              <rotation>
+                <kf t="0.003970" v="-5.000000" />
+                <kf t="0.996526" v="3.000000" />
+              </rotation>
+            </transform>
+            <fillColor value="#00ffffff" />
+            <effect id="com.alightcreative.effects.flip3" locallyApplied="true">
+              <property name="angle" type="float">
+                <kf t="0.000000" v="0.000000" />
+                <kf t="1.000000" v="-359.991821" e="cubicBezier 0.0 1.0 1.0 1.0" />
+              </property>
+              <property name="axis" type="float" value="0.000000" />
+              <property name="crop" type="float" value="1.000000" />
+              <property name="zdist" type="float" value="0.000000" />
+              <property name="solid" type="bool" value="false" />
+              <property name="solidColor" type="color" value="#ffdd4455" />
+              <property name="thickness" type="float" value="1.000000" />
+              <property name="enableLight" type="bool" value="false" />
+              <property name="lightIntensity" type="float" value="1.000000" />
+              <property name="lightColor" type="color" value="#ffffffff" />
+              <property name="shine" type="float" value="0.800000" />
+              <property name="spec" type="float" value="30.000000" />
+              <property name="ambient" type="float" value="0.100000" />
+              <property name="lightDir" type="vec2" value="75.000000,-75.000000" />
+              <property name="lightDepth" type="float" value="-100.000000" />
+            </effect>
+            <shadow direction="outside">
+              <size value="15.000000" />
+              <offset value="0.000000,0.000000" />
+            </shadow>
+            <content>&#129702;&#128558;‍&#128168;</content>
+          </text>
+          <text id="10221110" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" size="32.000000" font="imported?name=فونت دیما شکسته (@fonts_land).ttf" wrapWidth="764" align="center">
+            <transform>
+              <location>
+                <kf t="0.996526" v="1386.528564,1454.500000,0.000000" e="elastic 0.37159234 1.0 0.18657611 0.51392007" />
+                <kf t="0.003970" v="2386.028564,1454.500000,0.000000" />
+              </location>
+              <rotation>
+                <kf t="0.003970" v="-5.000000" />
+                <kf t="0.996526" v="3.000000" />
+              </rotation>
+            </transform>
+            <effect id="com.alightcreative.effects.flip3" locallyApplied="true">
+              <property name="angle" type="float">
+                <kf t="0.000000" v="0.000000" />
+                <kf t="1.000000" v="360.000000" e="cubicBezier 0.0 1.0 1.0 1.0" />
+              </property>
+              <property name="axis" type="float" value="0.000000" />
+              <property name="crop" type="float" value="1.000000" />
+              <property name="zdist" type="float" value="0.000000" />
+              <property name="solid" type="bool" value="false" />
+              <property name="solidColor" type="color" value="#ffdd4455" />
+              <property name="thickness" type="float" value="1.000000" />
+              <property name="enableLight" type="bool" value="false" />
+              <property name="lightIntensity" type="float" value="1.000000" />
+              <property name="lightColor" type="color" value="#ffffffff" />
+              <property name="shine" type="float" value="0.800000" />
+              <property name="spec" type="float" value="30.000000" />
+              <property name="ambient" type="float" value="0.100000" />
+              <property name="lightDir" type="vec2" value="75.000000,-75.000000" />
+              <property name="lightDepth" type="float" value="-100.000000" />
+            </effect>
+            <shadow direction="outside">
+              <size value="15.000000" />
+              <offset value="0.000000,0.000000" />
+            </shadow>
+            <content>دفن شان کردیم</content>
+          </text>
+        </scene>
+      </embedScene>
+      <shape id="10221120" label="ᴘʜᴏᴛᴏ" startTime="5116" endTime="15015" fillType="media" fillImage="content://media/external/images/media/1000281739" mediaFillMode="fill" s=".rect">
+        <transform>
+          <location>
+            <kf t="0.192848" v="540.000000,960.000000,0.000000" e="elastic 0.2489809 1.0 0.30932355 1.0" />
+            <kf t="-0.010910" v="579.500000,998.500000,0.000000" />
+          </location>
+        </transform>
+        <effect id="com.alightcreative.effects.tile" locallyApplied="true">
+          <property name="scale" type="float" value="1.000000" />
+          <property name="phase" type="float" value="0.000000" />
+          <property name="mirror" type="bool" value="true" />
+          <property name="vertoffs" type="bool" value="false" />
+          <property name="angle" type="float" value="0.000000" />
+        </effect>
+        <property name="size" type="vec2" value="540.000000,959.500000" />
+      </shape>
+      <embedScene id="10221134" label="ᴛᴇxᴛ" startTime="5100" endTime="15015" fillType="intrinsic" outTime="12242" speed="1.234681" mediaFillMode="fill">
+        <transform>
+          <location value="543.513489,960.000000,0.000000" />
+          <pivot value="0.000000,494.500000" />
+          <rotation value="-3.000000" />
+        </transform>
+        <fillColor value="#ff000000" />
+        <scene title="" width="2780" height="1920" exportWidth="2780" exportHeight="1920" precompose="dynamicResolution" bgcolor="#00000000" totalTime="2015" fps="60" modifiedTime="0" amver="1000045" ffver="106" am="com.alightcreative.motioo/5.0.201.1001028" amplatform="android" retime="off" retimeAdaptFPS="false">
+          <text id="10221111" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" size="32.000000" font="imported?name=EmojiiOS15.4.ttf" wrapWidth="764" align="center">
+            <transform>
+              <location>
+                <kf t="0.996526" v="1386.528564,1454.500000,0.000000" e="elastic 0.37159234 1.0 0.18657611 0.51392007" />
+                <kf t="0.003970" v="385.514282,1454.500000,0.000000" />
+              </location>
+              <rotation>
+                <kf t="0.003970" v="-5.000000" />
+                <kf t="0.996526" v="3.000000" />
+              </rotation>
+            </transform>
+            <fillColor value="#00ffffff" />
+            <effect id="com.alightcreative.effects.flip3" locallyApplied="true">
+              <property name="angle" type="float">
+                <kf t="0.000000" v="0.000000" />
+                <kf t="1.000000" v="-359.991821" e="cubicBezier 0.0 1.0 1.0 1.0" />
+              </property>
+              <property name="axis" type="float" value="0.000000" />
+              <property name="crop" type="float" value="1.000000" />
+              <property name="zdist" type="float" value="0.000000" />
+              <property name="solid" type="bool" value="false" />
+              <property name="solidColor" type="color" value="#ffdd4455" />
+              <property name="thickness" type="float" value="1.000000" />
+              <property name="enableLight" type="bool" value="false" />
+              <property name="lightIntensity" type="float" value="1.000000" />
+              <property name="lightColor" type="color" value="#ffffffff" />
+              <property name="shine" type="float" value="0.800000" />
+              <property name="spec" type="float" value="30.000000" />
+              <property name="ambient" type="float" value="0.100000" />
+              <property name="lightDir" type="vec2" value="75.000000,-75.000000" />
+              <property name="lightDepth" type="float" value="-100.000000" />
+            </effect>
+            <shadow direction="outside">
+              <size value="15.000000" />
+              <offset value="0.000000,0.000000" />
+            </shadow>
+            <content>&#128558;‍&#128168;&#128205;</content>
+          </text>
+          <text id="10221110" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" size="32.000000" font="imported?name=فونت دیما شکسته (@fonts_land).ttf" wrapWidth="764" align="center">
+            <transform>
+              <location>
+                <kf t="0.996526" v="1386.528564,1454.500000,0.000000" e="elastic 0.37159234 1.0 0.18657611 0.51392007" />
+                <kf t="0.003970" v="2386.028564,1454.500000,0.000000" />
+              </location>
+              <rotation>
+                <kf t="0.003970" v="-5.000000" />
+                <kf t="0.996526" v="3.000000" />
+              </rotation>
+            </transform>
+            <effect id="com.alightcreative.effects.flip3" locallyApplied="true">
+              <property name="angle" type="float">
+                <kf t="0.000000" v="0.000000" />
+                <kf t="1.000000" v="360.000000" e="cubicBezier 0.0 1.0 1.0 1.0" />
+              </property>
+              <property name="axis" type="float" value="0.000000" />
+              <property name="crop" type="float" value="1.000000" />
+              <property name="zdist" type="float" value="0.000000" />
+              <property name="solid" type="bool" value="false" />
+              <property name="solidColor" type="color" value="#ffdd4455" />
+              <property name="thickness" type="float" value="1.000000" />
+              <property name="enableLight" type="bool" value="false" />
+              <property name="lightIntensity" type="float" value="1.000000" />
+              <property name="lightColor" type="color" value="#ffffffff" />
+              <property name="shine" type="float" value="0.800000" />
+              <property name="spec" type="float" value="30.000000" />
+              <property name="ambient" type="float" value="0.100000" />
+              <property name="lightDir" type="vec2" value="75.000000,-75.000000" />
+              <property name="lightDepth" type="float" value="-100.000000" />
+            </effect>
+            <shadow direction="outside">
+              <size value="15.000000" />
+              <offset value="0.000000,0.000000" />
+            </shadow>
+            <content>الیاســـــــ‌‌᭄‌ـ</content>
+          </text>
+        </scene>
+      </embedScene>
+      <shape id="10221124" startTime="0" endTime="15015" fillType="color" blending="mask" mediaFillMode="fill" s=".rect">
+        <transform>
+          <location value="540.000000,960.000000,0.000000" />
+        </transform>
+        <fillColor value="#ff544e40" />
+        <property name="size" type="vec2" value="540.000000,960.000000" />
+      </shape>
+    </scene>
+  </embedScene>
+  <shape id="10221121" startTime="5116" endTime="8015" fillType="color" speed="0.695067" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="540.664063,960.042358,0.000000" />
+      <opacity>
+        <kf t="0.003970" v="1.000000" />
+        <kf t="0.996030" v="0.000000" e="cubicBezier 0.0 0.0 0.76 0.0" />
+      </opacity>
+    </transform>
+    <fillColor value="#ffebe23d" />
+    <effect id="com.alightcreative.effects.lift" locallyApplied="true">
+      <property name="fill" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.tile" locallyApplied="true">
+      <property name="scale" type="float">
+        <kf t="0.000000" v="1.000000" />
+        <kf t="0.996030" v="1.500000" e="cubicBezier 0.0 1.0 0.24165604 1.0" />
+      </property>
+      <property name="phase" type="float" value="0.000000" />
+      <property name="mirror" type="bool" value="true" />
+      <property name="vertoffs" type="bool" value="false" />
+      <property name="angle" type="float" value="0.000000" />
+    </effect>
+    <property name="size" type="vec2" value="540.000000,960.000000" />
+  </shape>
+  <text id="10221133" startTime="5116" endTime="8015" fillType="color" speed="0.695067" mediaFillMode="fill" size="144.000000" font="imported?name=EmojiiOS15.4.ttf" wrapWidth="512" align="center">
+    <transform>
+      <location value="542.954590,966.674316,0.000000" />
+      <scale>
+        <kf t="0.996526" v="1.992188,1.992188" e="cubicBezier 0.0 1.0 0.0 1.0" />
+        <kf t="0.000000" v="0.000000,0.000000" />
+      </scale>
+      <opacity>
+        <kf t="0.003181" v="1.000000" />
+        <kf t="0.997217" v="0.000000" e="cubicBezier 0.0 0.0 0.76356685 0.0" />
+      </opacity>
+    </transform>
+    <fillColor value="#007f7f7f" />
+    <shadow direction="outside">
+      <size value="50.000000" />
+      <offset value="0.000000,0.000000" />
+    </shadow>
+    <content>&#128391;&#128156;</content>
+  </text>
+  <shape id="10221135" startTime="0" endTime="15015" fillType="color" blending="screen" mediaFillMode="fill" s=".roundrect">
+    <transform>
+      <location value="540.000000,960.000000,0.000000" />
+      <scale value="0.999929,0.999929" />
+      <rotation value="-0.005089" />
+    </transform>
+    <effect id="com.alightcreative.effects.lift" locallyApplied="true">
+      <property name="fill" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.threshold" locallyApplied="true">
+      <property name="threshold" type="float" value="0.900000" />
+      <property name="feather" type="float" value="0.000000" />
+      <property name="invert" type="bool" value="false" />
+      <property name="blendMode" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.effects.dblur" locallyApplied="true">
+      <property name="strength" type="float" value="0.100000" />
+      <property name="angle" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.dblur" locallyApplied="true">
+      <property name="strength" type="float" value="0.050000" />
+      <property name="angle" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.sharpen" locallyApplied="true">
+      <property name="strength" type="float" value="2.000000" />
+      <property name="radius" type="float" value="2.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.gaussianblur" locallyApplied="true">
+      <property name="strength" type="float" value="0.015000" />
+    </effect>
+    <property name="size" type="vec2" value="540.000000,960.000000" />
+    <property name="cornerRadius" type="float" value="0.000000" />
+  </shape>
+  <shape id="10221136" startTime="0" endTime="15015" fillType="gradient" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="540.000000,960.000000,0.000000" />
+      <opacity value="0.500000" />
+    </transform>
+    <fillColor value="#ff3da8c9" />
+    <gradient type="radial" startColor="#00000000" endColor="#ff000000" start="0.496091,0.490909" end="1.000000,1.000000" />
+    <property name="size" type="vec2" value="960.000000,960.000000" />
+  </shape>
+</scene>
